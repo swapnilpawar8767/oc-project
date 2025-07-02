@@ -1,7 +1,6 @@
 {
-  "name": "static-site",
+  "name": "oc-static-test",
   "version": "1.0.0",
-  "description": "Simple static site with Node.js",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
