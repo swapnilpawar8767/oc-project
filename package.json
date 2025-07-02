@@ -1,6 +1,7 @@
 {
-  "name": "oc-static-test",
+  "name": "oc-project",
   "version": "1.0.0",
+  "description": "Simple static site served via Express on OpenShift",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
